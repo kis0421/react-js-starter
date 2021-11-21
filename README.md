@@ -13,7 +13,7 @@ npm i
 ### start
 
 ```
-npm run start
+npm start
 ```
 
 ### build
